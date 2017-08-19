@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="pref_hash_func_def_md5">true</bool>
+    <bool name="pref_hash_func_def_sha1">false</bool>
+    <bool name="pref_hash_func_def_sha256">false</bool>
+    <bool name="pref_hash_func_def_sha512">false</bool>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_hash_func_lbl">
+        <item>@string/hash_md5</item>
+        <item>@string/hash_sha1</item>
+        <item>@string/hash_sha256</item>
+        <item>@string/hash_sha512</item>
+    </array>
+    <array name="pref_hash_func_def">
+        <item>@bool/pref_hash_func_def_md5</item>
+        <item>@bool/pref_hash_func_def_sha1</item>
+        <item>@bool/pref_hash_func_def_sha256</item>
+        <item>@bool/pref_hash_func_def_sha512</item>
+    </array>
+</resources>
